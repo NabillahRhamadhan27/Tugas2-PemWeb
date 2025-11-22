@@ -1,7 +1,7 @@
 # 🚀 Cara Instalasi & Menjalankan
 ---
 1️⃣ Clone Repository:
-git clone https://github.com/USERNAME/Tugas2-Pemograman-Web.git
+git clone https://github.com/NabillahRhamadhan27/Tugas2-PemWeb.git
 
 2️⃣ Pindahkan folder yang telah di clone ke:
 C:\xampp\htdocs\
